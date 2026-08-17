@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "decisionrules",
+  "version": "1.0.0",
+  "description": "Create, manage, and test business rules directly from your AI agent via the DecisionRules platform.",
+  "author": {
+    "name": "DecisionRules",
+    "url": "https://decisionrules.io"
+  },
+  "homepage": "https://docs.decisionrules.io",
+  "repository": "https://github.com/decisionrules-io/mcp-plugin",
+  "license": "MIT",
+  "keywords": ["business-rules", "decision-engine", "no-code", "rules-engine"]
+}
